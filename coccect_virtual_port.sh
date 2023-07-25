@@ -1,0 +1,1 @@
+sudo socat PTY,link=/dev/tty98 PTY,link=/dev/tty99
